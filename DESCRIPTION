@@ -1,0 +1,10 @@
+Package: RobSAOD
+Type: Package
+Title: Robust Significance Analysis of Omics Data: A Weighted Approach for Biomarkers and Drug Discovery in Omics Data 
+Version: 1.0
+Date: 2022-08-06
+Author: Nishith Kumar and Md. Ashad Alam 
+Maintainer: Nishith Kumar<nk.bru09@gmail.com>
+Description: Performs weighted significance analysis for identifying the differentially expressed genes (e.g.,microarray) from noisy data.It is an extension of classical significance analysis of omics dataset. It is achieved by adding a weight function.  
+License: GPL (>= 2.10)
+
